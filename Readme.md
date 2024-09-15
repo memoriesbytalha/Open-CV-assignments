@@ -28,7 +28,7 @@ To get started with this project, follow the steps below to set up your environm
 
 ## What's Happening
 
-This project aims to demonstrate the usage of OpenCV library for image processing. It includes various examples and techniques for manipulating and analyzing images. The code is organized into different modules, each focusing on a specific aspect of image processing.
+This project aims to demonstrate the usage of OpenCV library for image reading.
 
 For any issues reach out to me : 01-136221-020@student.bahria.edu.pk
 Linkedin : https://www.linkedin.com/in/memoriesbytalha/
